@@ -1,0 +1,76 @@
+
+.flag{
+   margin-top: 100px;
+   margin-left: 300px;
+}
+
+.orange{
+    width:400px;
+    height: 100px;
+    background-color: orange;
+
+}
+.white{
+    width:400px;
+    height: 100px;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    
+}
+.green{
+    width:400px;
+    height: 100px;
+    background-color: rgb(19, 216, 69);
+    
+}
+.img{
+
+    width: 0px;
+    height: 0px;
+    padding-left: 150px;
+
+}
+.stick{
+    width: 17px;
+    height: 800px;
+    background-color: rgb(118, 72, 11);
+    margin-top: -300px;
+    margin-left: 284px;
+}
+.or{
+
+
+
+    width: 150px;
+    height: 60px;
+    background-color: orange;
+    margin-left: 215px;
+}
+.wh{
+
+
+
+    width: 200px;
+    height: 60px;
+    background-color:white;
+    margin-left:188px ;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.gr{
+
+
+
+    width: 250px;
+    height: 60px;
+    background-color: rgb(19, 216, 69);
+    margin-left: 160px;
+}
+    h1 {
+
+       margin: auto;
+       
+    }
+    .flower{
+
+        margin-top: -602px;
+        margin-left: 500px;
